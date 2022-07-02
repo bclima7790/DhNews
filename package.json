@@ -1,0 +1,14 @@
+{
+  "name": "dhnews",
+  "version": "1.0.0",
+  "description": "Projeto da página de notícias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
